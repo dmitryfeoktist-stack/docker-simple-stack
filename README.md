@@ -62,3 +62,8 @@ http://192.168.56.101
 ```bash
 bash test/test.sh
 ```
+
+## CI/CD
+```bash
+This project is configured with GitHub Actions
+```
