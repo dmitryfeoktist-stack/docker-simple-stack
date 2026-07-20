@@ -64,6 +64,5 @@ bash test/test.sh
 ```
 
 ## CI/CD
-```bash
+
 This project is configured with GitHub Actions
-```
